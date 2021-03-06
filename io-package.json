@@ -1,8 +1,20 @@
 {
   "common": {
     "name": "kodi",
-    "version": "2.0.5",
+    "version": "2.0.7",
     "news": {
+      "2.0.7": {
+        "en": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets",
+        "de": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets",
+        "ru": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets",
+        "pt": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets",
+        "nl": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets",
+        "fr": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets",
+        "it": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets",
+        "es": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets",
+        "pl": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets",
+        "zh-cn": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets"
+      },
       "2.0.5": {
         "en": "changed css classes\nfixed error",
         "de": "changed css classes\nfixed error",
@@ -14,7 +26,8 @@
         "es": "changed css classes\nfixed error",
         "pl": "changed css classes\nfixed error",
         "zh-cn": "changed css classes\nfixed error"
-      },"2.0.3": {
+      },
+      "2.0.3": {
         "en": "fixed thumbnails widget\nfixed info.tagline",
         "de": "fixed thumbnails widget\nfixed info.tagline",
         "ru": "fixed thumbnails widget\nfixed info.tagline",
@@ -40,16 +53,28 @@
       }
     },
     "title": "Kodi media player control",
+    "titleLang": {
+      "en": "Kodi media player control",
+      "de": "Kodi Media Player-Steuerung",
+      "ru": "Управление медиаплеером Kodi",
+      "pt": "Controle do reprodutor de mídia Kodi",
+      "nl": "Kodi mediaspelerbediening",
+      "fr": "Contrôle du lecteur multimédia Kodi",
+      "it": "Controllo del lettore multimediale Kodi",
+      "es": "Control del reproductor multimedia Kodi",
+      "pl": "Sterowanie odtwarzaczem multimedialnym Kodi",
+      "zh-cn": "Kodi媒体播放器控件"
+    },
     "desc": {
-      "en":    "Kodi Control Adapter",
-      "de":    "Kodi Control Adapter",
-      "ru":    "Адаптер для управления Kodi",
-      "pt":    "Adaptador de controle Kodi",
-      "nl":    "Kodi-besturingsadapter",
-      "fr":    "Adaptateur de commande Kodi",
-      "it":    "Adattatore di controllo Kodi",
-      "es":    "Kodi juhtiadapter",
-      "pl":    "Adapter sterowania Kodi",
+      "en": "Kodi Control Adapter",
+      "de": "Kodi Control Adapter",
+      "ru": "Адаптер для управления Kodi",
+      "pt": "Adaptador de controle Kodi",
+      "nl": "Kodi-besturingsadapter",
+      "fr": "Adaptateur de commande Kodi",
+      "it": "Adattatore di controllo Kodi",
+      "es": "Kodi juhtiadapter",
+      "pl": "Adapter sterowania Kodi",
       "zh-cn": "Kodi控制適配器"
     },
     "license": "MIT",
